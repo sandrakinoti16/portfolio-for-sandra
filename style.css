@@ -1,7 +1,9 @@
 .header{font: size 60 px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
-    ;background-color:white;
+    ;background-color:black;
 text-align: center;
-text-decoration-color: darkred;
+color: darkred;
 width: 200px;
 height: 100px;}
+
+.intro{}
